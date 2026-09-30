@@ -1,1 +1,1 @@
-hello
+hello world\n Xin chao sv1
