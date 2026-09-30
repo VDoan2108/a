@@ -1,1 +1,1 @@
-hello
+hello\n xin chao sinh vien 2
